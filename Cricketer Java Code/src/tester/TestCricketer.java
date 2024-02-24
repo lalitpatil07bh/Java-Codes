@@ -66,6 +66,7 @@ public class TestCricketer {
 			catch (Exception e) 
 			{
 				e.printStackTrace();
+				System.out.println("Error Occured")
 			}
 		}
 
