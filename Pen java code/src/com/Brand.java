@@ -2,5 +2,5 @@ package com;
 
 public enum Brand
 {
-	CELLO, PARKER, REYNOLDS;
+	CELLO, PARKER, REYNOLDS,TRIMAX,JIFFY;
 }
